@@ -43,12 +43,15 @@ Na Geek, trabalhamos com aprendizagem baseada em projetos.
 
 
 ## Nível 5 
+
+- [ ] Como criar cenários!
+
 - [ ] Parando para pensar, o que é um jogo ? 
 - Vamos trabalhar com Input
 
 
 ## Nível 6
-
+- Goal
 - [ ] Modo (regras) de jogo ?
 
 
