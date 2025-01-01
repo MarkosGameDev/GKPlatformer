@@ -47,5 +47,12 @@ Na Geek, trabalhamos com aprendizagem baseada em projetos.
 - Vamos trabalhar com Input
 
 
+## Nível 6
+
+- [ ] Modo (regras) de jogo ?
+
+
+
+
 ### Créditos
 - KayKit - Combat Mech 
